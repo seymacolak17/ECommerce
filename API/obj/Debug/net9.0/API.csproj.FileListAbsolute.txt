@@ -144,3 +144,4 @@ C:\Users\SEYMA\source\repos\ECommerce\api\bin\Debug\net9.0\runtimes\win-arm\nati
 C:\Users\SEYMA\source\repos\ECommerce\api\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\SEYMA\source\repos\ECommerce\api\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\SEYMA\source\repos\ECommerce\api\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\SEYMA\source\repos\ECommerce\api\obj\Debug\net9.0\API.sourcelink.json
